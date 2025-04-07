@@ -82,7 +82,7 @@ const About = () => {
           >
             {[
               { number: "2+", label: "years of self-taught experience" },
-              { number: "7+", label: "Projects Completed" },
+              { number: "10+", label: "Projects Completed" },
             ].map((item, index) => (
               <motion.div
                 key={index}
