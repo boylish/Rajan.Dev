@@ -19,12 +19,6 @@ export const skills = [
     category: 'frontend'
   },
   {
-    name: "TypeScript",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
-    level: 2,
-    category: 'frontend'
-  },
-  {
     name: "React",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
     level: 4,
