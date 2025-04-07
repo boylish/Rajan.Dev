@@ -1,4 +1,6 @@
 import intelion from "../assets/intelion.png";
+import aiReviewer from "../assets/ai-reviewer.png";
+import bookstore from "../assets/bookstore.png";
 export const projects = [
   {
     id: 1,
@@ -6,7 +8,7 @@ export const projects = [
     description:
       "A full-featured platform built with React, Node.js, and MongoDB. Includes user authentication, product management, cart functionality.",
     image:
-      "https://assets.grok.com/users/27e75d8b-3c81-447e-a46e-356cec97ec6f/generated/ehEtlYwN3tuIYEVq/image.jpg",
+      bookstore,
     tags: ["React", "Node.js", "MongoDB", "Express", "Redux"],
     github: "https://github.com/boylish/bookstore",
     demo: "https://bookstore1-seven.vercel.app/",
@@ -29,7 +31,7 @@ export const projects = [
     description:
       "Built an AI-powered code reviewer using React . Integrated Google Gemini API for AI-based code analysis and real time code editor with syntax highlighting.",
     image:
-      "https://assets.grok.com/users/27e75d8b-3c81-447e-a46e-356cec97ec6f/generated/po69t5OOwMfpgUis/image.jpg",
+    aiReviewer,
     tags: ["React", "Gemini API", "Tailwind CSS"],
     github: "https://github.com/boylish/AI-Code-Reviewer",
     demo: "https://ai-code-reviewer-vins.onrender.com/",
