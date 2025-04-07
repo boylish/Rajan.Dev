@@ -28,8 +28,8 @@ const Hero = () => {
       const { innerWidth, innerHeight } = window;
       const { clientX, clientY } = e;
 
-      const xRotation = ((clientY - innerHeight / 4) / innerHeight) * 0;
-      const yRotation = ((clientX - innerWidth / 4) / innerWidth) * 0;
+      const xRotation = ((clientY - innerHeight / 2) / innerHeight) * 40;
+      const yRotation = ((clientX - innerWidth / 2) / innerWidth) * 40;
 
       gsap.to(imageRef.current, {
         rotateX: -xRotation,
