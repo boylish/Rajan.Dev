@@ -3,18 +3,6 @@ import aiReviewer from "../assets/ai-reviewer.png";
 import bookstore from "../assets/bookstore.png";
 export const projects = [
   {
-    id: 1,
-    title: "Online Book Store",
-    description:
-      "A full-featured platform built with React, Node.js, and MongoDB. Includes user authentication, product management, cart functionality.",
-    image:
-      bookstore,
-    tags: ["React", "Node.js", "MongoDB", "Express", "Redux"],
-    github: "https://github.com/boylish/bookstore",
-    demo: "https://bookstore1-seven.vercel.app/",
-    featured: true,
-  },
-  {
     id: 5,
     title: "Task Management App",
     description:
@@ -38,6 +26,19 @@ export const projects = [
     demo: "https://ai-code-reviewer-vins.onrender.com/",
     featured: true,
   },
+  {
+    id: 1,
+    title: "Online Book Store",
+    description:
+      "A full-featured platform built with React, Node.js, and MongoDB. Includes user authentication, product management, cart functionality.",
+    image:
+      bookstore,
+    tags: ["React", "Node.js", "MongoDB", "Express", "Redux"],
+    github: "https://github.com/boylish/bookstore",
+    demo: "https://bookstore1-seven.vercel.app/",
+    featured: true,
+  },
+  
   {
     id: 3,
     title: "Animated landing page",
