@@ -21,8 +21,9 @@ export const projects = [
       "A comprehensive task management application with features like task creation, assignment, progress tracking, and team collaboration.",
     image:
       "https://images.unsplash.com/photo-1540350394557-8d14678e7f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
-    tags: ["React", "Node.js", "MongoDB", "Express", "Redux"],
-    
+    tags: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
+    github: "https://github.com/boylish/Task_Manager_frontend",
+    demo: "https://task-manager-frontend-alpha-beige.vercel.app/",
     featured: true,
   },
   {
