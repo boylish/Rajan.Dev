@@ -34,8 +34,8 @@ export const projects = [
     image:
       bookstore,
     tags: ["React", "Node.js", "MongoDB", "Express", "Redux"],
-    github: "https://github.com/boylish/bookstore",
-    demo: "https://bookstore1-seven.vercel.app/",
+    github: "https://github.com/boylish/BookStore",
+    demo: "https://bookstore-07.netlify.app/",
     featured: true,
   },
   
