@@ -10,8 +10,8 @@ export const projects = [
     image:
       "https://images.unsplash.com/photo-1540350394557-8d14678e7f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
     tags: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
-    github: "https://github.com/boylish/Task_Manager_frontend",
-    demo: "https://task-manager-frontend-alpha-beige.vercel.app/",
+    github: "https://github.com/boylish/TaskManager",
+    demo: "https://task-manager0879.netlify.app/",
     featured: true,
   },
   {
