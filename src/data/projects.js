@@ -43,7 +43,7 @@ export const projects = [
     title: "Sell Car",
     description:
       "CarSell is a fullstack web application built with Next.js, MongoDB, and Tailwind CSS.",
-    image: intelion ,
+    image: sellCar,
     tags: ["NextJs", "Node.js", "MongoDB", "Express"],
     github: "https://github.com/boylish/Car-Sell-WebApp",
     demo: "https://car-sell-web-app.vercel.app/",
@@ -54,7 +54,7 @@ export const projects = [
     title: "E-commerce Chatbot FullStack",
     description:
       "React-based chatbot Integrated with a Node.js backend and MongoDB for chat logging and product management.",
-    image: intelion ,
+    image: chatbot ,
     tags: ["React", "Node.js", "MongoDB", "Express"],
     github: "https://github.com/boylish/E-commerce_Chatbot",
     demo: "https://chatbot0879.netlify.app/",
