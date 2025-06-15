@@ -65,7 +65,7 @@ export const projects = [
     title: "Marketing Company Landing Page",
     description:
       "An interactive landing page built with smooth animations and modern UI elements.",
-    image: intelion ,
+    image: MarketingComp ,
     tags: ["JavaScript", "React","Tailwind CSS"],
     github: "https://github.com/boylish/GIF_Studio_Task",
     demo: "https://gif-studio-task.netlify.app/",
