@@ -3,7 +3,7 @@ import aiReviewer from "../assets/ai-reviewer.png";
 import bookstore from "../assets/bookstore.png";
 export const projects = [
   {
-    id: 5,
+    id: 1,
     title: "Task Management App",
     description:
       "A comprehensive task management application with features like task creation, assignment, progress tracking, and team collaboration.",
@@ -27,7 +27,7 @@ export const projects = [
     featured: true,
   },
   {
-    id: 1,
+    id: 3,
     title: "Online Book Store",
     description:
       "A full-featured platform built with React, Node.js, and MongoDB. Includes user authentication, product management, cart functionality.",
@@ -38,9 +38,41 @@ export const projects = [
     demo: "https://bookstore-07.netlify.app/",
     featured: true,
   },
-  
   {
-    id: 3,
+    id: 4,
+    title: "Sell Car",
+    description:
+      "CarSell is a fullstack web application built with Next.js, MongoDB, and Tailwind CSS.",
+    image: intelion ,
+    tags: ["NextJs", "Node.js", "MongoDB", "Express"],
+    github: "https://github.com/boylish/Car-Sell-WebApp",
+    demo: "https://car-sell-web-app.vercel.app/",
+    featured: false,
+  },
+ {
+    id: 5,
+    title: "E-commerce Chatbot FullStack",
+    description:
+      "React-based chatbot Integrated with a Node.js backend and MongoDB for chat logging and product management.",
+    image: intelion ,
+    tags: ["React", "Node.js", "MongoDB", "Express"],
+    github: "https://github.com/boylish/E-commerce_Chatbot",
+    demo: "https://chatbot0879.netlify.app/",
+    featured: false,
+  },
+  {
+    id: 6,
+    title: "Marketing Company Landing Page",
+    description:
+      "An interactive landing page built with smooth animations and modern UI elements.",
+    image: intelion ,
+    tags: ["JavaScript", "React","Tailwind CSS"],
+    github: "https://github.com/boylish/GIF_Studio_Task",
+    demo: "https://gif-studio-task.netlify.app/",
+    featured: false,
+  },
+  {
+    id: 7,
     title: "Animated landing page",
     description:
       "An interactive landing page built with smooth animations and modern UI elements.",
@@ -49,18 +81,6 @@ export const projects = [
     github: "https://github.com/boylish/Intelion-Landing-Page",
     demo: "https://intelion-landing-page-two.vercel.app/",
     featured: false,
-  },
-  {
-    id: 4,
-    title: "Client Portfolio Website",
-    description:
-      "A responsive portfolio website showcasing Client's projects, skills, and professional experience.",
-    image:
-      "https://images.unsplash.com/photo-1487014679447-9f8336841d58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    tags: ["HTML", "CSS", "javaScript" , "GSAP"],
-    github: "https://github.com/boylish/logo_designer",
-    demo: "https://boylish.github.io/logo_designer/",
-    featured: false,
-  },
+  }
   
 ];
