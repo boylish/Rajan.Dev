@@ -1,9 +1,9 @@
 import intelion from "../assets/intelion.png";
 import aiReviewer from "../assets/ai-reviewer.png";
 import bookstore from "../assets/bookstore.png";
-import sellCar from "../assets/sellCar";
-import MarketingComp from "../assets/MarketingComp";
-import chatbot from "../assets/chatbot";
+import sellCar from "../assets/sellCar.png";
+import MarketingComp from "../assets/MarketingComp.png";
+import chatbot from "../assets/chatbot.png";
 export const projects = [
   {
     id: 1,
