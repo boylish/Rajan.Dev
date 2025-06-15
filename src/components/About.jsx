@@ -63,7 +63,7 @@ const About = () => {
               transition={{ delay: 0.4 }}
             >
               <a
-                href="https://drive.google.com/file/d/1B-nygJKEvkiWHn2h2ub7bgThhcZNk8q_/view?usp=sharing"
+                href="https://drive.google.com/file/d/1YhGh1jiQ2FdBv_pVe9MDngX4if4Cv0OP/view?usp=sharing"
                 className="bg-[#38bdf8] text-white px-5 py-2 rounded-lg flex items-center w-fit hover:bg-[#675d9a6b] transition-colors"
               >
                 <FileText size={18} className="mr-2" />
